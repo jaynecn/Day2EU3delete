@@ -1,0 +1,1 @@
+console.log('Yo this is a linked javascript file')
