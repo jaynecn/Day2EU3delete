@@ -1,3 +1,13 @@
-h1 {
-  color: green;
+* {
+  box-sizing:border-box;
+}
+
+.box {
+  background-color: pink;
+  padding: 10px;
+  padding-bottom: 20px;
+  margin: 10px 5px 25px 50px;
+  border: 10px solid black;
+  width: 200px;
+  display: inline-block;
 }
